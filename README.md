@@ -1,4 +1,4 @@
-# Elementary Cellular Automaton
+# Sierpinski Triangle
 
 This project is a Python implementation of the Sierpinski Triangle fractal pattern. It demonstrates the recursive and self-similar structure of the Sierpinski Triangle using Python.
 
