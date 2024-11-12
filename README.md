@@ -10,6 +10,8 @@ This project is a Python implementation of the Sierpinski Triangle fractal patte
 
 ## Installation
 
+**Prerequisite:** Ensure [Poetry](https://python-poetry.org/docs/#installation) is installed on your system.
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/PetrFridrich/SierpinskiTriangle.git
