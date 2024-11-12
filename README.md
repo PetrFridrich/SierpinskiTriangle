@@ -16,7 +16,7 @@ This project is a Python implementation of the Sierpinski Triangle fractal patte
    ```
 2.  Navigate to the project directory:
     ```bash
-    cd ElementaryCellularAutomaton
+    cd SierpinskiTriangle
     ```
 3. Install the dependencies with Poetry:
     ```bash 
